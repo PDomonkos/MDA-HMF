@@ -1,6 +1,6 @@
 # Hyperbolic Metabolite-Disease Association Prediction
 
-Pytorch implementation of a hyperbolic matrix-factorization model to the paper "Hyperbolic Metabolite-Disease Association Prediction"
+Pytorch implementation of a hyperbolic matrix-factorization model to the paper "[Hyperbolic Metabolite-Disease Association Prediction](https://www.esann.org/sites/default/files/proceedings/2024/ES2024-29.pdf)"
 
 Contact Information: pogany@mit.bme.hu
 
