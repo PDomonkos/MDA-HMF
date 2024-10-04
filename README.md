@@ -2,6 +2,8 @@
 
 Pytorch implementation of a hyperbolic matrix-factorization model to the paper "[Hyperbolic Metabolite-Disease Association Prediction](https://www.esann.org/sites/default/files/proceedings/2024/ES2024-29.pdf)"
 
+[ESANN conference poster](ESANN_hyperbolic_MDA_prediction_poster.pdf) 
+
 Contact Information: pogany@mit.bme.hu
 
 ## Data availability
