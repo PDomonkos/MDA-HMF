@@ -56,5 +56,12 @@ After downloading and processing the HMDB database, with the [experiments notebo
 
 ## Citation   
 ```
-TBA
+@inproceedings{pogany2024hyperbolic,
+  title={Hyperbolic Metabolite-Disease Association Prediction},
+  author={Pog{\'a}ny, Domonkos and Antal, P{\'e}ter},
+  booktitle={Proceedings of the 32nd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2024)},
+  pages={333--338},
+  year={2024},
+  doi={10.14428/esann/2024.ES2024-29}
+}
 ``` 
